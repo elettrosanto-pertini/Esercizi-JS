@@ -99,7 +99,7 @@ let lista2 = {
     rest: {
         value: 24,
         rest: {
-            value: 'cesso',
+            value: 'Il comunismo ha fallito',
             rest: null
         }
     }
